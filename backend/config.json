@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "root",
+      "password": "suaSenha",
+      "database": "seuBancoDeDados",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "suaSenha",
+      "database": "seuBancoDeDados",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "suaSenha",
+      "database": "seuBancoDeDados",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+  
